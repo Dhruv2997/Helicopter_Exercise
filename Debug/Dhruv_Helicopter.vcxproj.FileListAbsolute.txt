@@ -1,0 +1,2 @@
+D:\Advanced C++\Dhruv_Helicopter\Debug\Dhruv_Helicopter.exe
+D:\Advanced C++\Dhruv_Helicopter\Debug\Dhruv_Helicopter.pdb
